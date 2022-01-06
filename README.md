@@ -2,7 +2,7 @@
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-<img src="exemplo-image.png" alt="exemplo imagem">
+<img src="./img/Yoga_login.png" alt="Page for login"> <img src="./img/Yoga_signup.png" alt="Page for Signup">
 
 > Resultado do projeto Yoga.
 ### Ajustes e melhorias
@@ -21,8 +21,8 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 <table>
   <tr>
     <td align="center">
-      <a href="#">
-        <img src="#" width="100px;" alt="Foto do yolmat no GitHub"/><br>
+      <a href="www.github.com/yolmat">
+        <img src="./img/Yolmat.jpg" width="100px;" alt="Foto do yolmat no GitHub"/><br>
         <sub>
           <b>Yolmat</b>
         </sub>
